@@ -10,8 +10,13 @@ const projectData = [
     liveLink: "https://imagination-sculptor.vercel.app/"
   },
   {
+    name: "Mergeable Names",
+    details: "A personal project for creating unique character names for novels.",
+    liveLink: "https://mergeable-names.vercel.app/"
+  },
+  {
     name: "Digital Crisis",
-    details: "A website to show fictious digital crisis of NCA.",
+    details: "A website to show a fictitious digital crisis of NCA.",
     liveLink: "https://digital-crisis-narrative.vercel.app/"
   },
   {
