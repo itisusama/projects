@@ -15,6 +15,16 @@ const projectData = [
     liveLink: "https://mergeable-names.vercel.app/"
   },
   {
+    name: "Scribe Panel Pad",
+    details: "My personal editor for novels.",
+    liveLink: "https://scribe-panel-pad-72qq.vercel.app/"
+  },
+  {
+    name: "Scene Share",
+    details: "My library for users to share the scenes with each other.",
+    liveLink: "https://write-weave-place.vercel.app/"
+  },
+  {
     name: "Digital Crisis",
     details: "A website to show a fictitious digital crisis of NCA.",
     liveLink: "https://digital-crisis-narrative.vercel.app/"
